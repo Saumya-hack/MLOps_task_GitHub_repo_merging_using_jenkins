@@ -6,3 +6,4 @@ If they are working properly only then we are going to merge the 'dev' branch da
 As the 'master' branch is the main branch of our repository, so we don't want that any file with any problem goes to master branch.
 That's why we are firstly required to test the files of our other branches which in our case is 'dev' branch.
 Only when the testing gives us positive result about the 'dev' branch files, then we are going to merge our 'dev' and 'master' branches.
+So you will find the process of all this that how we are going to perform this task in the document 'mlops_task_merging_github_repo_using_jenkins' in this repository.
